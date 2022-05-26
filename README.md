@@ -7,10 +7,10 @@
 ## Answered
 
 1. how do i publish into a subfeed?
-  - ssb.db.publishAs
+    - ssb.db.publishAs
 2. sbot.metafeeds.findById
-  - what is the `result.metafeed`
-    - A: oh you mean the feed this one is a subfeed of. need to say that
+    - what is the `result.metafeed`
+        - A: oh you mean the feed this one is a subfeed of. need to say that
 
 -----
 
